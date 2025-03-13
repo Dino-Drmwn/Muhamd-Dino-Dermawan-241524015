@@ -23,24 +23,6 @@ spesifikasi pembuatan deret bilangan ganjil dengan langkah berikut:
 > F.S. : elemen List = {}
 */
 /*
-Inisialisasi struct Node
-	Data <- Integer
-	Next <- Pointer to Node
-End Struct
-*/
-
-/*typedef struct Node{
-	int Data;
-	struct Node* Next;
-}Node;
-
-Node* head = NULL;
-
-void InsertFirst(int value){
-	Node* NewNode = (Node*)alloc(sizeof(Node);
-	NewNode.Data = value;
-	NewNode = head;
-}
 
 /*
 Procedure InsertFirst(value)
